@@ -214,7 +214,7 @@ delay(1000);
 
 ![](https://github.com/CesarG16/SENSORSONICORED/blob/main/IMAG1.png?raw=true)
 
-6. Los elementos puestos son : mqtt in, json, function, function, gauge, gauge y chart.
+6. Los elementos puestos son : mqtt in, json, function, gauge y chart.
 7. Después abrir Dashboard en la esquina superior de la derecha como se ve en la siguiente imagen:
 
 ![](https://github.com/CesarG16/DHT22RED/blob/main/EJE4.png?raw=true)
